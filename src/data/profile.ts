@@ -78,8 +78,8 @@ export const profile: ProfileData = {
   socials: [
     {
       platform: "GitHub",
-      url: "https://github.com",
-      display: "github.com/sameera",
+      url: "https://github.com/jayanthdevisetty/sameera-bhanu-portfolio",
+      display: "github.com/jayanthdevisetty/sameera-bhanu-portfolio",
     },
     {
       platform: "LinkedIn",

@@ -24,13 +24,13 @@ export const config = {
   email: "sksameera321s@gmail.com",
   site: "https://sameera-bhanu.vercel.app",
 
-  githubUsername: "sameera-bhanu",
-  githubRepo: "portfolio",
+  githubUsername: "jayanthdevisetty",
+  githubRepo: "sameera-bhanu-portfolio",
 
   ogImg: "/media/amazon-clone-poster.jpg",
   social: {
     linkedin: "https://www.linkedin.com",
-    github: "https://github.com",
+    github: "https://github.com/jayanthdevisetty/sameera-bhanu-portfolio",
     email: "mailto:sksameera321s@gmail.com",
   },
 };
